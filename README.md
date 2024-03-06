@@ -12,6 +12,6 @@ Here are some fun facts about me:
  2. I also have interests in video making
  3. I'm currently doing a degree in communications!
 
-[Click this message to travel back in time!]("https://doodles.google/doodle/new-years-eve-2023/")
+![Click this message to travel back in time!]("https://doodles.google/doodle/new-years-eve-2023/")
 
 This so far is just what I can do with a limited amount of time. Some time in the future, I'd like to make this a lot prettier!
